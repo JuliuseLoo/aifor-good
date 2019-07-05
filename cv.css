@@ -1,0 +1,49 @@
+.grasbleu
+{color :blue}
+
+.grasorange
+{color :orange}
+
+.premiermot
+{color : black;
+margin-left: 20px}
+
+img
+{float : left;
+margin-left: 5px;
+margin-top: 5px}
+
+h1
+{color : crimson;
+font-family: cursiveactive;
+font-size : 40px}
+
+#orange
+{color : orangered}
+
+p, h1, ul, ol, a
+{font-family: 'Georgia'}
+
+h2
+{font-family : 'Impact'}
+
+strong
+{font-size : 18px}
+
+body
+{border : solid;
+    border-color: black;
+    margin : 20px;
+    padding : 5px;
+    background-color : white;
+    box-shadow : 5px 5px 0px black;
+}
+
+html
+{background-color: crimson}
+
+@media screen and (max-width : 640px)
+{
+section
+{display : none}
+    }
